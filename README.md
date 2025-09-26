@@ -36,8 +36,7 @@ Fique à vontade para explorar o código e as análises detalhadas neste reposit
 
 **O Final e a Simulação Hipotética:** A corrida culminou em um final apertado, com Hamilton cruzando a linha de chegada apenas 0.700 segundos à frente de Verstappen. Nossa análise das últimas voltas revelou que, enquanto Verstappen mantinha um ritmo significativamente mais rápido (ganhando cerca de 0.376 segundos por volta, considerando a diferença de ritmo e a perda de ritmo do Hamilton), seriam necessárias aproximadamente **1.98 voltas adicionais** para que ele conseguisse compensar a diferença e efetuar a ultrapassagem em condições de corrida.
 
-**Conclusão:** Os dados confirmam a performance superior do carro de Verstappen em termos de ritmo puro na maioria dos stints. No entanto, a gestão estratégica de Hamilton e a execução impecável em momentos cruciais garantiram a vitória em uma das corridas mais memoráveis dos últimos tempos. A simulação hipotética das voltas finais sublinha o quão perto Verstappen chegou de reverter o resultado, destacando a margem mínima que separou os dois competidores no Bahrein.
-
+**Conclusão:** Os dados confirmam a performance superior do carro de Verstappen em termos de ritmo puro na maioria dos stints. No entanto, a gestão estratégica de Hamilton e a execução impecável em momentos cruciais garantiram a vitória em uma das corridas mais memoráveis dos últimos tempos. "A nossa simulação comprova que Verstappen esteve a menos de duas voltas de reverter o resultado, destacando a margem mínima que separou os dois.
 
 ## No segundo cenário hipotético analisamos como uma possível para simulada 2 voltas mais cedo de Verstappen poderia ter mudado o resultado da corrida 
 
